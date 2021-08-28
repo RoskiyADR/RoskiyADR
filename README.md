@@ -1,4 +1,3 @@
-Привет, я Roskiy! Занимаюсь програмированнием на discord.py - Python.
 Связаться со мной: Discord - Roskiy#1562
 <!---
 RoskiyADR/RoskiyADR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
