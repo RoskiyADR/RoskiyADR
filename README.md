@@ -1,10 +1,10 @@
-❖ ▶▶
-👋 Hello.
- | My name is Roskiy (present name Dinar).
- | I'm developing (discord) bot.
- | She name is [Tyan](https://discord.com/api/oauth2/authorize?client_id=881142784671768616&permissions=8&scope=bot). 
- | She [support](https://discord.com/invite/MTxrnxbZA5).
- ◀◀ ❖
+❖ ▶▶\n
+👋 Hello.\n
+ | My name is Roskiy (present name Dinar).\n
+ | I'm developing (discord) bot.\n
+ | She name is [Tyan](https://discord.com/api/oauth2/authorize?client_id=881142784671768616&permissions=8&scope=bot).\n
+ | She [support](https://discord.com/invite/MTxrnxbZA5).\n
+ ◀◀ ❖\n
 
 
 <!---
