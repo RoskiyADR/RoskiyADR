@@ -4,11 +4,11 @@
 Ну ладно, раз зашёл, расскажу да покажу тебе.
 
 - Я являюсь разработчиком бота "Tyan"
-- Я являюсь администратором сообщества "Tyan Community"
+- Я являюсь участником сообщества "Tyan Community"
 
 ## Подробнее о проекте.
 
-- Мой бот, стоит больше чем 1070 серверов!
+- Мой бот, стоит больше чем 1550 серверов!
 - Она имеет хороший функционал, да и впринципе она многофункциональная!
 - Ах-да, рассказываю-рассказываю, а про ссылку забыл!
 - [Сервер технической поддержки](https://discord.gg/MTxrnxbZA5) 
@@ -16,7 +16,6 @@
 
 # Моя статистика
 ![](https://github-readme-stats.vercel.app/api?username=roskiyadr&show_icons=true&count_private=true&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs?username=roskiyadr&count_private=true&theme=dark)
 
 
 
