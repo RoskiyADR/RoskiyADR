@@ -1,18 +1,8 @@
 # Roskiy
 
-Ух-ты, привет, не ожидал тебя тут увидеть!
-Ну ладно, раз зашёл, расскажу да покажу тебе.
+privetik
 
-- Я являюсь разработчиком бота "Tyan"
-- Я являюсь участником сообщества "Tyan Community"
-
-## Подробнее о проекте.
-
-- Мой бот, стоит больше чем 1550 серверов!
-- Она имеет хороший функционал, да и впринципе она многофункциональная!
-- Ах-да, рассказываю-рассказываю, а про ссылку забыл!
-- [Сервер технической поддержки](https://discord.gg/MTxrnxbZA5) 
-- [Ссылка на приглашение бота](https://discord.com/api/oauth2/authorize?client_id=881142784671768616&permissions=8&scope=bot)
+## eto ya da
 
 # Моя статистика
 ![](https://github-readme-stats.vercel.app/api?username=roskiyadr&show_icons=true&count_private=true&theme=dark)  
